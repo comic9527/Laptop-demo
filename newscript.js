@@ -14,5 +14,5 @@
     'use strict';
 
     // Your code here...
-    console.log('你的家在哪里？')
+    console.log('你的年龄是？')
 })();
