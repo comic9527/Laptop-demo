@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         第一次尝试
 // @namespace    http://tampermonkey.net/
-// @version      2025-01-14
+// @version      0.1
 // @description  你好世界
 // @author       bysong
 // @license      AGPL-3.0
@@ -14,5 +14,5 @@
     'use strict';
 
     // Your code here...
-    console.log('你的名字是什么？')
+    console.log('你的家在哪里？')
 })();
